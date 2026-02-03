@@ -4,6 +4,14 @@
 
 Privacy-focused local-first invoice automation built with Tauri and React.
 
+<!-- CTAs -->
+<p align="center">
+  <a href="https://github.com/LuisSambrano/invoice-automation-saas/stargazers"><img src="https://img.shields.io/github/stars/LuisSambrano/invoice-automation-saas?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/LuisSambrano/invoice-automation-saas/network/members"><img src="https://img.shields.io/github/forks/LuisSambrano/invoice-automation-saas?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/LuisSambrano/invoice-automation-saas/issues"><img src="https://img.shields.io/github/issues/LuisSambrano/invoice-automation-saas?style=flat-square" alt="Issues"/></a>
+  <a href="https://github.com/LuisSambrano/invoice-automation-saas/blob/main/LICENSE"><img src="https://img.shields.io/github/license/LuisSambrano/invoice-automation-saas?style=flat-square" alt="License"/></a>
+</p>
+
 ## Overview
 
 Invoice Zero is a desktop application for creating and managing invoices without relying on cloud services or subscriptions. The application stores all data locally on your device using SQLite, ensuring complete privacy and offline functionality.
