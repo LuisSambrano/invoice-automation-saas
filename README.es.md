@@ -14,7 +14,7 @@ Automatización de facturas local-first enfocada en privacidad, construida con T
 
 ## Descripción General
 
-Invoice Zero es una aplicación de escritorio para crear y gestionar facturas sin depender de servicios en la nube o suscripciones. La aplicación almacena todos los datos localmente en tu dispositivo usando SQLite, garantizando completa privacidad y funcionalidad offline.
+> **Decisiones Arquitectónicas**: Lee `KEY_FINDINGS.md` para entender por qué rechazamos Electron y Firebase. o suscripciones. La aplicación almacena todos los datos localmente en tu dispositivo usando SQLite, garantizando completa privacidad y funcionalidad offline.
 
 Construida con Tauri v2, la aplicación combina un backend en Rust para rendimiento y seguridad con un frontend en React para una interfaz de usuario moderna. La arquitectura local-first significa que tus datos financieros nunca salen de tu dispositivo, y la aplicación funciona sin conexión a internet.
 
