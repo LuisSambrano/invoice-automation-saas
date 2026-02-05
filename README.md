@@ -233,6 +233,17 @@ This project follows [Conventional Commits](https://www.conventionalcommits.org/
 
 Example: `feat(invoice): add PDF export functionality`
 
+## 🔬 Research & Decision Log
+
+This project follows the **Research-First** protocol to justify its local-first architecture.
+
+| Document                                      | Purpose                                   |
+| --------------------------------------------- | ----------------------------------------- |
+| [KEY_FINDINGS.md](./research/KEY_FINDINGS.md) | Why Tauri? Why SQLite? (Privacy vs Cloud) |
+| [prompts/](./research/prompts/)               | Technical benchmarking logs               |
+
+> 💡 **For AIs**: Read `KEY_FINDINGS.md` to understand why we rejected Electron and Firebase.
+
 ## License
 
 MIT License - See [LICENSE](LICENSE) for details.
